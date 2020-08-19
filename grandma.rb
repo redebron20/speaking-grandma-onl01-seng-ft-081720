@@ -30,7 +30,7 @@ def speak_to_grandma (phrase)
 end
 
 speak_to_grandma ("What did you eat today")
-speak_to_grandma ()
+speak_to_grandma ("what?")
 
 
 # Whatever you say to grandma, she should respond with
