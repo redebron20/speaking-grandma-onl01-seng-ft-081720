@@ -29,7 +29,11 @@ def speak_to_grandma (phrase)
   end
 end
 
+speak_to_grandma ("What did you eat today?")
 
+speak_to_grandma ("What?")
+
+speak_to_grandma ("I LOVE YOU GRANDMA!")
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
