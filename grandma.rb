@@ -5,36 +5,6 @@ def speak_to_grandma (phrase)
   end
 end
 
-def speak_to_grandma (phrase)
-  if phrase == "Hi Nana, how are you?"
-    return "HUH?! SPEAK UP, SONNY!"
-  end
-end
-
-def speak_to_grandma (phrase)
-  if phrase == "Hi!"
-    return "HUH?! SPEAK UP, SONNY!"
-  end
-end
-
-def speak_to_grandma (phrase)
-  if phrase == "WHAT DID YOU EAT TODAY?"
-    return "NO, NOT SINCE 1938!"
-  end
-end
-
-def speak_to_grandma (phrase)
-  if phrase == "WHAT?".upcase
-    return "NO, NOT SINCE 1938!"
-  end
-end
-
-speak_to_grandma ("What did you eat today?")
-
-speak_to_grandma ("What?")
-
-speak_to_grandma ("I LOVE YOU GRANDMA!")
-
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
