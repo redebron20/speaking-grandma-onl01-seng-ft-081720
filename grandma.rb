@@ -24,6 +24,8 @@ def speak_to_grandma (phrase)
     return "NO, NOT SINCE 1938!"
 end
 
+speak_to_grandma ("What did you eat today")
+
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
